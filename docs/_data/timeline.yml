@@ -1,17 +1,13 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
-  from: 2018
+- title: Doctoral student, Arizona State University, USA
+  from: 2019
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: My Ph.D. research is on reliable and robust federated learning, online learning and meta-learning.
+
+- title: Master of Science, Arizona State University, USA
+  from: 2017
+  to: 2018
+  description: I graduated with my Masters with a specialization in Communications and Signal Processing. My masters theses can be found here:  
+  
+- title: Bachelor of Technology, Indian Institute of Technology, Hyderabad, IND
+  from: 2011
+  to: 2015
