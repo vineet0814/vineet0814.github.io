@@ -3,7 +3,7 @@ source              : ../
 collections_dir     : docs
 data_dir            : docs/_data
 baseurl             : "/portfolYOU-test"
-repository          : YoussefRaafatNasry/portfolYOU
+repository          : vineet0814/vineet0814.github.io
 open_new_tab        : false
 
 ### Navbar Settings ###
@@ -16,9 +16,9 @@ nav_exclude:
 
 ### Author Info ###
 author:
-  name              : YRN
+  name              : Vineet Gattani
   image             : https://avatars2.githubusercontent.com/u/41103290
-  github            : YoussefRaafatNasry
+  github            : vineet0814
 
 
 ### Posts ###
