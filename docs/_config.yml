@@ -22,8 +22,6 @@ nav_exclude:                                            # The following paths ar
   - documentation/docs.md
   - documentation/elements.html
   - pages/blog.html
-  - pages/projects.html
-
 
 ### Author Info ###
 author:
