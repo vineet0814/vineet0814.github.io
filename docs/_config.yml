@@ -7,11 +7,6 @@ repository          : vinet0814/vineet0814.github.io     # Change to <your-usern
 remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
- Using a pipe character, and then dropping down a line
- and indenting like this allows you to include multiple
- paragraphs, just as you would in Markdown.
- 
- ### Hello
 
 ### Plugins ###
 plugins:
