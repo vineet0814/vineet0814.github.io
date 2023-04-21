@@ -47,7 +47,8 @@ author:
 # youtube           : your_channel_name
 # keybase           : your_username
 
-
+include:
+  - pages/about.md
 ### Posts ###
 permalink: /blog/:title
 
@@ -103,8 +104,7 @@ defaults:
 
 
 ### Exclude from processing ###
-include:
-  - pages/about.md
+
 exclude:
   - README.md
   - CONTRIBUTING.md
