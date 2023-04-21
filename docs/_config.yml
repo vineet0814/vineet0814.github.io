@@ -49,6 +49,9 @@ author:
 
 include:
   - pages/about.md
+  
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"  
 ### Posts ###
 permalink: /blog/:title
 
