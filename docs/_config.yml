@@ -103,6 +103,8 @@ defaults:
 
 
 ### Exclude from processing ###
+include:
+  - pages/about.md
 exclude:
   - README.md
   - CONTRIBUTING.md
