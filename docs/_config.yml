@@ -3,7 +3,7 @@ title               : Vineet Gattani
 description         : >-
                       I like learning :book: the math behind ML. 
                       <div class="row">
-                      {% include about/timeline.html %}
+                      {% include timeline.html %}
                       </div>
 
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
