@@ -7,6 +7,9 @@ repository          : vinet0814/vineet0814.github.io     # Change to <your-usern
 remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
+<div class="row">
+{% include about/timeline.html %}
+</div>
 
 ### Plugins ###
 plugins:
