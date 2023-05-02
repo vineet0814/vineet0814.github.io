@@ -4,4 +4,3 @@ permalink: /
 ---
 
 {% include landing.html %}
-fasfasfasfas
