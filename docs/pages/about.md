@@ -12,12 +12,11 @@ I’m a fourth year PhD student in the School of Electrical, Computer and Energy
 
 In my downtime I enjoy listening to audiobooks and hiking. 
 
-
-<!-- Calendly badge widget begin -->
+I am always interested in talking about current and upcoming trends in machine learning. Feel free to write to me or <!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/vineetgattani', text: 'Schedule time with me', color: '#0069ff', textColor: '#ffffff', branding: true }); }</script>
-<!-- Calendly badge widget end -->
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/vineetgattani'});return false;">Schedule a time</a>
+<!-- Calendly link widget end --> to chat more.
 
 <div class="row">
 {% include about/timeline.html %}
