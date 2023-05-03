@@ -12,8 +12,6 @@ open_new_tab        : false                             # Opens external URLs in
 plugins:
   - jemoji
 
-include: 
-  - pages/lifeupdate.md
 ### Navbar Settings ###
 nav_exclude:                                            # The following paths are excluded from navbar
   - pages/tags.html
