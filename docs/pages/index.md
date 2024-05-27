@@ -6,6 +6,7 @@ permalink: /
 {% include landing.html %}
 
 # The latest scoop
+* My recent paper titled, 'Non-Stationary Bandits with Periodic Behavior: Harnessing Ramanujan Periodicity Transforms to Conquer Time-Varying Challenges'  was accepted at ICASSP, 2024
 
 * Attended [NSF I-Corps Hub](https://desertpacificicorps.org): Desert and Pacific Region workshop : *The 4-weeks I-Corps regional training program provides a hands-on, high-impact and fast-paced opportunity for innovators to learn to commercialize their technology*. 
 
