@@ -10,7 +10,10 @@ Consider a scenario where we are only given a small labelling budget $M$  ($< N$
 
 ## Theory
 In this specific paper [[Yilmaz et.al., 2021]](https://arxiv.org/pdf/2109.12043.pdf), the authors consider metrics of the form: 
-$$F = \frac{\sum_{n=1}^{N} f(c_p, c_t)}{\sum_{n=1}^{N} g(c_p, c_t)}$$
+$$
+\begin{aligned}
+F = \frac{\sum_{n=1}^{N} f(c_p, c_t)}{\sum_{n=1}^{N} g(c_p, c_t)}
+\end{aligned}$$
 
 For example, for the accuracy metric we have $f(c_p,c_t)=\mathbb{I}[c_p =c_t], g(c_p,c_t)=1$. Here $\mathbb{I}[x=y]$ is the indicator function. The paper forms the estimator: 
 $$\hat{F} = \frac{\hat{x}}{\hat{y}}$$
