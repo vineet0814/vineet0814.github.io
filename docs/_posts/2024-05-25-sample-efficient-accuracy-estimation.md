@@ -3,7 +3,7 @@ title: Sample Efficient Accuracy Estimation
 tags: [Model Evaluation]
 style: 
 color: 
-description: 
+description: In high-stakes ML applications where the cost of labelling is expensive, it is imperative to perform model monitoring in sample efficient way. 
 ---
 
 Consider a scenario where we are only given a small labelling budget $M$  ($< N$), we employ the technique presented in [Yilmaz et.al., 2021](https://arxiv.org/pdf/2109.12043.pdf) to sample data points which contribute more to any given test statistic. There are two sampling approaches presented in the above paper, currently we focus on using the importance sampling approach. In short, the importance sampling approach samples those points which contribute more to the squared error between the finite $M$ estimator $\hat{F}$ and infinite $M$ limit $F^\prime.$ Clearly, we do not have access to the true underlying posterior distribution, to mitigate this the paper suggests approximations. 
