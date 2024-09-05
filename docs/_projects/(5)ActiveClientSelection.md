@@ -1,4 +1,3 @@
-
 ---
 name: Active Client Selection in Federated Learning
 tools: [MLWiNS Project, 2024]
