@@ -1,7 +1,7 @@
 ---
 name: Active Client Selection in Federated Learning
 tools: [MLWiNS Project, 2024]
-image: 
+image: ../images/ACS_FL.png
 description: 
 external_url: 
 ---
