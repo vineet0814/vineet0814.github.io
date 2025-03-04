@@ -7,8 +7,8 @@ weight: 3
 
 # **About Me**
 
-Hi I am Vineet Gattani :wave:,<br>
-I’m a fourth year PhD student in the School of Electrical, Computer and Energy Engineering at Arizona State University advised by Dr. Gautam Dasarathy. My research interests include statitical machine learning, statistics and signal processing. 
+Hi I am Vineet :wave:,<br>
+I recently graduated with a PhD in Electrical, Computer, and Energy Engineering from Arizona State University, where I was advised by Dr. Gautam Dasarathy. My research focused on statistical machine learning, statistics, and signal processing, with a strong emphasis on developing innovative and data-efficient approaches to complex data analysis problems.
 
 In my downtime I enjoy listening to audiobooks and hiking. 
 
